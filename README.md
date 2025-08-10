@@ -1,4 +1,4 @@
-# Mahloan P2P Lending Platform [![CI](https://github.com/rami-saad/mahloan-p2p/actions/workflows/ci.yml/badge.svg)](https://github.com/rami-saad/mahloan-p2p/actions)
+# Mahloan P2P Lending Platform (https://github.com/rami-saad/mahloan-p2p/actions)
 
 A cloud-based peer‑to‑peer lending simulation that models the loan lifecycle from request to repayment. Built to showcase backend API development, Infrastructure as Code, CI/CD automation, and AWS deployment patterns.
 
